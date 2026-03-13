@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hajarlachheb.com"><img src="https://img.shields.io/badge/Website-hajarlachheb.com-558b6e?style=for-the-badge&labelColor=0d1117&logo=link"/></a>
+  <a href="[[https://hajarlachheb.com](https://hajarlachheb.github.io/)](https://hajarlachheb.github.io/)"><img src="https://img.shields.io/badge/Website-hajarlachheb.com-558b6e?style=for-the-badge&labelColor=0d1117&logo=link"/></a>
   <a href="https://www.linkedin.com/in/hajarlachheb"><img src="https://img.shields.io/badge/LinkedIn-Hajar_Lachheb-558b6e?style=for-the-badge&labelColor=0d1117&logo=linkedin"/></a>
   <a href="mailto:hajarlachheb.dev@gmail.com"><img src="https://img.shields.io/badge/Email-hajarlachheb.dev@gmail.com-f1c8db?style=for-the-badge&labelColor=0d1117&logo=gmail"/></a>
 </p>
